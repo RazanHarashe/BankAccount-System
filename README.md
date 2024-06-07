@@ -36,7 +36,7 @@ The BankAccount project simulates a basic banking system where users can manage 
 - `public static double getTotalMoney()`: Returns the total amount of money in all accounts.
 - `public String getAccountNumber()`: Returns the account number.
 
-  ### Expected Output
+## Expected Output
 
 The application will create two bank accounts, deposit money into checking and savings accounts, withdraw money from the accounts, display the balances after each operation, and print the total number of accounts and total money across all accounts.
 
